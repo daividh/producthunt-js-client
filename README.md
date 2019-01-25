@@ -1,4 +1,4 @@
-# product-hunt-js
+# producthunt-js-client
 This project was developed for a hiring test.
 
 The main goal of this project is to create a very simple [ProductHunt](https://producthunt.com) client using [Vue.js](https://vuejs.org/) as a POC.
